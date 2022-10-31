@@ -21,6 +21,7 @@ print(ax)
 
 ``` 
 ---
+<br>
 ## Join Us !
 
 <img width="31" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png"><a href="https://discord.gg/XFPs22U9tS">SxB SecServer (discord)</a><br>
