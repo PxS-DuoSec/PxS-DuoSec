@@ -21,5 +21,16 @@ print(ax)
 
 ``` 
 ---
-<img width="31" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png"><a href="https://discord.gg/XFPs22U9tS">SxB SecServer (discord)</a><br>
-<img width="31" src="https://www.specialolympics.asso.fr/wp-content/uploads/2020/04/youtube-logo-icon-transparent-32.png"><a href="https://www.youtube.com/channel/UCCO-FLxIHmk9UqsdUWLF-zg">SxB Computricks (youtube)</a>
+#### Join Us !
+
+<img width="31" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png">
+
+<strong>
+    <a href="https://discord.gg/XFPs22U9tS">SxB SecServer (discord)</a><br>
+</strong>
+
+<img width="31" src="https://www.specialolympics.asso.fr/wp-content/uploads/2020/04/youtube-logo-icon-transparent-32.png">
+
+<strong>
+    <a href="https://www.youtube.com/channel/UCCO-FLxIHmk9UqsdUWLF-zg">SxB Computricks (youtube)</a>
+</strong>
