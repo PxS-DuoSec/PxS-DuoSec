@@ -21,5 +21,5 @@ print(ax)
 
 ``` 
 
-<a href="https://discord.gg/XFPs22U9tS">SxB SecServer (discord)</a>
-<a href="https://www.youtube.com/channel/UCCO-FLxIHmk9UqsdUWLF-zg">SxB Computricks (youtube)</a>
+<img src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png"><a href="https://discord.gg/XFPs22U9tS">SxB SecServer (discord)</a><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/2048px-YouTube_social_white_squircle.svg.png"><a href="https://www.youtube.com/channel/UCCO-FLxIHmk9UqsdUWLF-zg">SxB Computricks (youtube)</a>
