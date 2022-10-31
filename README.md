@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SxB🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentesting%20Scripting%20SystAdmin&descAlignY=51&descAlign=62)
-
 ```python
 class SxB:
 
