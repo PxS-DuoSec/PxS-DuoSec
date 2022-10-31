@@ -21,4 +21,5 @@ print(ax)
 
 ``` 
 
-<a  href="https://discord.gg/XFPs22U9tS">
+<a href="https://discord.gg/XFPs22U9tS">SxB SecServer (discord)</a>
+<a href="https://www.youtube.com/channel/UCCO-FLxIHmk9UqsdUWLF-zg">SxB Computricks (youtube)</a>
