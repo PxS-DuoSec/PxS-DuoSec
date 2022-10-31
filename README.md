@@ -1,5 +1,5 @@
 ```python
-class SxB:
+class PxS:
 
     def __init__(self):
         self.skills = ["Pentest", "Development", "SysAdmin"]
@@ -14,7 +14,7 @@ class SxB:
         
         return t
         
-ax = SxB()
+ax = PxS()
 print(ax)
 
 ``` 
