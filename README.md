@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SxB🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentesting%20Scripting%20SystAdmin&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/XFPs22U9tS"><img align="right" src="https://discordapp.com/api/guilds/1036336146382323712/widget.png?style=banner4"/></a>
 
 ```C++
 #include <iostream>
